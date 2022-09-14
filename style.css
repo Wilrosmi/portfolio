@@ -1,0 +1,36 @@
+header {
+  height: 100vh;
+}
+
+.landing-title {
+  text-align: center;
+  margin: 20vh auto auto auto;
+}
+
+.landing-subtitle {
+  text-align: center;
+  margin: 8vh auto auto auto;
+}
+
+.landing-contact {
+  text-align: center;
+  margin: 15vh auto auto auto;
+}
+
+.project {
+  height: 100vh;
+}
+
+.contact-details {
+  margin: 5vh auto auto auto;
+  text-align: center;
+}
+
+.arrow {
+  display: block;
+  text-align: center;
+  margin-top: 5vh; 
+  font-size: 2.5rem;
+  scroll-behavior: smooth;
+}
+
